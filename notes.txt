@@ -2,3 +2,4 @@ hello everyone!
 what's going on?
 nothing
 fourth line
+Git branches keep work separate.
